@@ -38,11 +38,36 @@ The Exploratory Data Analysis (EDA) process was conducted using Python for data 
 ## 📊 Key Insights
 
 ### Key Insight 1
-Tesla is the most dominant vehicle manufacturer in the dataset, while Model 3 is the most frequently occurring vehicle model. This highlights Tesla’s strong market presence and popularity in the EV industry.
+Tesla is the most dominant vehicle manufacturer in the dataset, while Model 3 is the most frequently occurring vehicle model. This indicates Tesla’s strong market presence and high consumer preference for its electric vehicles.
+
+**Implication:**  
+The popularity of Tesla suggests that consumers highly value advanced technology, vehicle performance, and brand reputation when choosing electric vehicles.
+
+**Business Recommendation:**  
+Other EV manufacturers should invest more in innovation, battery technology, and smart vehicle features to improve competitiveness and attract more customers.
 
 ### Key Insight 2
-Most vehicles in the dataset were manufactured between 2018 and 2025, with an average model year of approximately 2018.6. This suggests increasing consumer demand for newer and more technologically advanced electric vehicles.
+Most vehicles in the dataset were manufactured between 2018 and 2025, with an average model year of approximately 2018.6. This shows that the dataset mainly contains modern electric vehicles rather than older models.
+
+**Implication:**  
+The increasing number of newer EV models reflects growing consumer demand for environmentally friendly transportation and modern vehicle technology.
+
+**Business Recommendation:**  
+Businesses and governments should continue expanding charging infrastructure and supporting EV technology development to encourage future growth in the electric vehicle market.
 
 ## 📈 Dashboard in Power BI
 An interactive dashboard was created in Power BI to visualize important trends and insights related to electric vehicles.
-![Dashboard in Power BI](Screenshot%2026-05-13%130133.png)
+![Dashboard in Power BI](Dashboard.png)
+
+## 🛠 Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Power BI
+- Jupyter Notebook
+
+## 👩‍💻 Author
+Nguyen Thi Anh Tuyet  
+Eastern International University
+
+
