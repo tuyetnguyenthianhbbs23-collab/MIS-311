@@ -57,7 +57,7 @@ Businesses and governments should continue expanding charging infrastructure and
 
 ## 📈 Dashboard in Power BI
 An interactive dashboard was created in Power BI to visualize important trends and insights related to electric vehicles.
-![Dashboard in Power BI](Dashboard.png)
+![Dashboard in Power BI](Dashbroad.png)
 
 ## 🛠 Tools & Technologies
 - Python
