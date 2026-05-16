@@ -45,3 +45,5 @@ Most vehicles in the dataset were manufactured between 2018 and 2025, with an av
 
 ## 📈 Dashboard in Power BI
 An interactive dashboard was created in Power BI to visualize important trends and insights related to electric vehicles.
+
+![Dashboard](Screenshot 2026-05-13 130133.png)
