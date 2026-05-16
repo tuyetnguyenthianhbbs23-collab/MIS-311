@@ -47,7 +47,7 @@ The popularity of Tesla suggests that consumers highly value advanced technology
 Other EV manufacturers should invest more in innovation, battery technology, and smart vehicle features to improve competitiveness and attract more customers.
 
 ### Key Insight 2
-Most vehicles in the dataset were manufactured between 2018 and 2025, with an average model year of approximately 2018.6. This shows that the dataset mainly contains modern electric vehicles rather than older models.
+Most vehicles in the dataset were manufactured between 2018 and 2020, with an average model year of approximately 2018.6. This shows that the dataset mainly contains modern electric vehicles rather than older models.
 
 **Implication:**  
 The increasing number of newer EV models reflects growing consumer demand for environmentally friendly transportation and modern vehicle technology.
